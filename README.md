@@ -202,21 +202,43 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ---
 
-## Week 9 log — 10–16 Jul 2026 (in progress)
+## Week 9 log — 10–16 Jul 2026 
 
 **CAD / Suspension corner:**
-- Rebuilt suspension corner as a clean static double wishbone assembly — lower A-arm, upper A-arm, upright, hub, brake disc, coilover
+
+- Rebuilt suspension corner as a clean static double wishbone assembly — lower A-arm, upper A-arm, upright, hub, brake disc
 - Correct anatomy verified: both A-arms are proper V-shaped wishbones converging into the upright (not crossing through the disc); front view shows the correct trapezoid (upper arm shorter/higher than lower arm), demonstrating the camber-gain principle
 - Portfolio project marked complete — static scope
 
 **Python — CS50P:**
+
 - Week 6 (File I/O): lecture watched — problem sets not yet started
 
 **German:**
+
 - Language Transfer and Easy German (Slow German) already complete as of Week 7/8 — no new milestones this week
 - Duolingo: 15 min nightly maintained
 
 **What I learned this week:** The earlier broken versions traced back to not using offset planes properly — sketches and sweep paths weren't anchored to the right reference planes, which is what caused the arm-through-disc geometry error. Getting offset planes right was the actual fix, not just redoing the sketches.
+
+---
+
+## Weeks 10–11 log — 17 Jul–3 Aug 2026 (low-activity gap)
+
+**CAD / Suspension corner:**
+
+- No activity — static assembly remains the completed portfolio piece from Week 9
+
+**Python — CS50P:**
+
+- Week 6 (File I/O) problem set completed (17–19 Jul)
+- No further progress after 19 Jul
+
+**German:**
+
+- Duolingo lapsed — not maintained through this period
+
+**What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor 
 
 ---
 
