@@ -5,6 +5,8 @@
 **BE Mechanical Engineering @ Thapar Institute · 2026–2030**  
 Target: MSc Automotive Engineering, Germany · Expected 2032
 
+![Status](https://img.shields.io/badge/status-Semester%201%20active-brightgreen)
+
 </div>
 
 ---
@@ -36,16 +38,6 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 ---
 
-## Semester 1 progress (4 Aug 2026–)
-
-- Freshmen Boot Camp & Orientation: 3–16 Aug 2026 · academic classes began 17 Aug 2026
-- Daily anchor since 4 Aug: German (Duolingo nightly + Nicos Weg resuming from Ep 26) + GitHub commit 8:30–9:30 PM
-- CS50P worked into free morning blocks — Week 6 done, Week 7 (Regex) next
-- CAD: paused, no fixed resume date — Sem 1 lecture timetable not yet released. Once it is, CAD gets slotted into the daily planner alongside the fixed class blocks
-- Society Fair 22–23 Aug: SAE Thapar + GDSC Thapar recruitment window — watch their social channels
-- Once the Sem 1 timetable is shared: full hour-by-hour semester planner gets built, and this section gets replaced by day-wise logs instead of weekly ones
-
----
 
 ## Week 1 log — 15–21 May 2026
 
@@ -253,34 +245,45 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 **What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor.
 
+> ### 🟢 Currently active — Semester 1 (4 Aug 2026–)
+>
+> - Freshmen Boot Camp & Orientation: 3–16 Aug 2026 · academic classes began 17 Aug 2026
+> - Daily anchor since 4 Aug: German (Duolingo nightly + Nicos Weg resuming from Ep 26) + GitHub commit 8:30–9:30 PM
+> - CS50P worked into free morning blocks — Week 6 done, Week 7 (Regex) next
+> - CAD: paused, no fixed resume date — Sem 1 lecture timetable not yet released. Once it is, CAD gets slotted into the daily planner alongside the fixed class blocks
+> - Society Fair 22–23 Aug: SAE Thapar + GDSC Thapar recruitment window — watch their social channels
+> - Once the Sem 1 timetable is shared: full hour-by-hour semester planner gets built, and this section gets replaced by day-wise logs instead of weekly ones
+
 ---
 
 ## Repository structure
+
+```
 thapar-journey/
 ├── cad/
-│ ├── week-1/ # Days 01–03
-│ ├── week-2/ # Days 04–06
-│ ├── week-3/ # Days 07–08
-│ ├── week-4/ # Days 09–12
-│ ├── week-5/ # Days 13–30
-│ └── portfolio/
-│ └── suspension-corner/ # pre-college portfolio project — static double wishbone, complete
+│   ├── week-1/             # Days 01–03
+│   ├── week-2/             # Days 04–06
+│   ├── week-3/             # Days 07–08
+│   ├── week-4/             # Days 09–12
+│   ├── week-5/             # Days 13–30
+│   └── portfolio/
+│       └── suspension-corner/   # Pre-college portfolio project — static double wishbone, complete
 ├── python/
-│ └── cs50p-problemsets/ # CS50P solutions, weekly
-├── german-progress.md # Language Transfer + Easy German log
+│   └── cs50p-problemsets/  # CS50P solutions, weekly
+├── german-progress.md      # Language Transfer + Easy German log
 └── README.md
-
-
----
+```
 
 ## Roadmap
 
-Pre-college (May–Aug 2026) → CAD basics ✅, CS50P Wk0-6 ✅, German A1 prep, suspension corner ✅ — phase closed
-Semester 1 (Aug–Dec 2026) → Physics, Engineering Drawing, Manufacturing Processes, Calculus — CS50P + German continued, CAD resumes once timetable set
-Semester 2 → Programming (Python) course, Electrical & Electronics — MATLAB self-study begins, German A2 prep
-Semester 3–4 → ANSYS FEA, CATIA/NX, German B1
-Semester 5–6 → Research project, internship
-Semester 7–8 → Thesis, German B2, MSc applications
+```
+Pre-college (May–Aug 2026)    →  CAD basics ✅, CS50P Wk0-6 ✅, German A1 prep, suspension corner ✅ — phase closed
+Semester 1 (Aug–Dec 2026)     →  Physics, Engineering Drawing, Manufacturing Processes, Calculus — CS50P + German continue, CAD resumes once timetable set
+Semester 2                    →  Programming (Python) course, Electrical & Electronics — MATLAB self-study begins, German A2 prep
+Semester 3–4                  →  ANSYS FEA, CATIA/NX, German B1
+Semester 5–6                  →  Research project, internship
+Semester 7–8                  →  Thesis, German B2, MSc applications
+```
 
 
 
