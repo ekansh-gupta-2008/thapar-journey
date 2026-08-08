@@ -15,22 +15,35 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days · Suspension corner complete (static) | Kinematics/roll centre deferred to Team Fateh mentorship |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0–5 ✅ · Wk 6 (File I/O) in progress | Engineering calculator final project |
-| German | Language Transfer + Easy German YouTube + Duolingo | LT Track 15 complete (final track) · SEG Ep 1–30 complete | Goethe A1 exam — Oct 2026 |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | Paused since 19 Jul — pre-college scope complete (30-day course + static suspension corner) | Resume date TBD once Sem 1 timetable is set |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0–6 ✅ · Wk 7 (Regex) starting | Engineering calculator final project |
+| German | Language Transfer + Easy German (both complete) + Duolingo + Nicos Weg | Duolingo resumed 4 Aug · Nicos Weg resuming from Ep 26 | Goethe A1 exam — Jan 2027, Goethe-Institut New Delhi |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
 ---
 
-## Pre-college progress (May–July 2026)
+## Pre-college progress (May–Aug 2026) — complete
 
 - Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
 - Suspension corner portfolio project: **complete** ✅ — static double wishbone assembly (lower A-arm, upper A-arm, upright, hub, brake disc), rebuilt after a first attempt had incorrect anatomy
-- Python: CS50P Wk 5 (Unit Tests) ✅ · Wk 6 (File I/O) in progress
-- German: LT Track 15 complete (final track, course finished) · Easy German (Slow German) Ep 1–30 complete (finished) · Anki discontinued · Duolingo maintained nightly · Nicos Weg frozen at ep 26 (reference only)
+- Python: CS50P Wk 0–6 complete ✅ (Wk 6 File I/O finished 19 Jul)
+- German: LT Track 15 complete (final track, course finished) · Easy German (Slow German) Ep 1–30 complete (finished) · Anki discontinued · Nicos Weg frozen at ep 26 (reference only)
 - AI-900: passed ✅ (exam taken Jun 29, 2026 via OnVUE) — certificate posted to LinkedIn
 - GitHub: commits ongoing since Day 1
+
+Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents the transition gap in full.
+
+---
+
+## Semester 1 progress (4 Aug 2026–)
+
+- Freshmen Boot Camp & Orientation: 3–16 Aug 2026 · academic classes began 17 Aug 2026
+- Daily anchor since 4 Aug: German (Duolingo nightly + Nicos Weg resuming from Ep 26) + GitHub commit 8:30–9:30 PM
+- CS50P worked into free morning blocks — Week 6 done, Week 7 (Regex) next
+- CAD: paused, no fixed resume date — Sem 1 lecture timetable not yet released. Once it is, CAD gets slotted into the daily planner alongside the fixed class blocks
+- Society Fair 22–23 Aug: SAE Thapar + GDSC Thapar recruitment window — watch their social channels
+- Once the Sem 1 timetable is shared: full hour-by-hour semester planner gets built, and this section gets replaced by day-wise logs instead of weekly ones
 
 ---
 
@@ -202,7 +215,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ---
 
-## Week 9 log — 10–16 Jul 2026 
+## Week 9 log — 10–16 Jul 2026
 
 **CAD / Suspension corner:**
 
@@ -238,36 +251,36 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 - Duolingo lapsed — not maintained through this period
 
-**What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor 
+**What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor.
 
 ---
 
 ## Repository structure
-
-```
 thapar-journey/
 ├── cad/
-│   ├── week-1/             # Days 01–03
-│   ├── week-2/             # Days 04–06
-│   ├── week-3/             # Days 07–08
-│   ├── week-4/             # Days 09–12
-│   ├── week-5/             # Days 13–15, 18–30
-│   └── portfolio/
-│       └── suspension-corner/   # Pre-college portfolio project — static double wishbone, complete
+│ ├── week-1/ # Days 01–03
+│ ├── week-2/ # Days 04–06
+│ ├── week-3/ # Days 07–08
+│ ├── week-4/ # Days 09–12
+│ ├── week-5/ # Days 13–30
+│ └── portfolio/
+│ └── suspension-corner/ # pre-college portfolio project — static double wishbone, complete
 ├── python/
-│   └── cs50p-problemsets/  # CS50P solutions
-├── german-progress.md      # Language Transfer + Easy German log
+│ └── cs50p-problemsets/ # CS50P solutions, weekly
+├── german-progress.md # Language Transfer + Easy German log
 └── README.md
-```
+
 
 ---
 
 ## Roadmap
 
-```
-Pre-college (May–Jul 2026)    →  CAD basics ✅, CS50P, German A1, suspension corner ✅
-Semester 1–2 (Aug 2026–)     →  Engineering Drawing, MATLAB intro
-Semester 3–4                 →  ANSYS FEA, CATIA/NX, German B1
-Semester 5–6                 →  Research project, internship
-Semester 7–8                 →  Thesis, German B2, MSc applications
-```
+Pre-college (May–Aug 2026) → CAD basics ✅, CS50P Wk0-6 ✅, German A1 prep, suspension corner ✅ — phase closed
+Semester 1 (Aug–Dec 2026) → Physics, Engineering Drawing, Manufacturing Processes, Calculus — CS50P + German continued, CAD resumes once timetable set
+Semester 2 → Programming (Python) course, Electrical & Electronics — MATLAB self-study begins, German A2 prep
+Semester 3–4 → ANSYS FEA, CATIA/NX, German B1
+Semester 5–6 → Research project, internship
+Semester 7–8 → Thesis, German B2, MSc applications
+
+
+
