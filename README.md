@@ -5,7 +5,7 @@
 **BE Mechanical Engineering @ Thapar Institute · 2026–2030**  
 Target: MSc Automotive Engineering, Germany · Expected 2032
 
-![Status](https://img.shields.io/badge/status-Semester%201%20active-brightgreen)
+![Status](https://img.shields.io/badge/status-Semester%201%20active-green)
 
 </div>
 
@@ -146,7 +146,7 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 **German:**
 - Language Transfer: Tracks 4+ complete
-- Easy German (Slow German): Episodes 1–12 complete
+- Easy German: Episodes 1–12 complete
 - Anki: 10 words/day maintained; Duolingo: 15 min nightly maintained
 
 **AI-900:**
@@ -155,8 +155,8 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 - Practice tests: June 25–27; system check: June 28
 
 **CAD / Suspension corner:**
-- Phase 1 geometry study delayed to June 25 — begins this week
-- Phase 2 component CAD start date unchanged: June 30
+- Phase 1 geometry study delayed to June 25 
+- Phase 2 component CAD start date unchanged
 
 **Python — CS50P:**
 - On pause during vacation week
@@ -170,15 +170,14 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 **CAD / Suspension corner:**
 - Fusion 360 modelling attempted on the wishbone geometry — found both A-arm outer points placed at X=0 instead of outboard at X=300, a fundamental geometry error
 - Given the gap in kinematics guidance, scope was temporarily cut down to a static-only assembly to avoid stalling
-- Rebuild deferred, pending a proper course-driven approach
+- Rebuild deferred
 
 **Python — CS50P:**
-- Week 5 (Unit Tests): All problem sets complete ✅ — Problem Set 5 done
+- Week 5 (Unit Tests): All problem sets complete ✅
 
 **German:**
 - Language Transfer: Track 15 complete
-- Easy German (Slow German): Episodes 13–30 complete (total: 30)
-- Anki: discontinued
+- Easy German: Episodes 13–30 complete (total: 30)
 - Duolingo: 15 min nightly maintained
 
 **AI-900:**
@@ -212,7 +211,7 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 **CAD / Suspension corner:**
 
 - Rebuilt suspension corner as a clean static double wishbone assembly — lower A-arm, upper A-arm, upright, hub, brake disc
-- Correct anatomy verified: both A-arms are proper V-shaped wishbones converging into the upright (not crossing through the disc); front view shows the correct trapezoid (upper arm shorter/higher than lower arm), demonstrating the camber-gain principle
+- Correct anatomy verified: both A-arms are proper V-shaped wishbones converging into the upright; front view shows the correct trapezoid (upper arm shorter/higher than lower arm), demonstrating the camber-gain principle
 - Portfolio project marked complete — static scope
 
 **Python — CS50P:**
@@ -221,7 +220,7 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 **German:**
 
-- Language Transfer and Easy German (Slow German) already complete as of Week 7/8 — no new milestones this week
+- Language Transfer and Easy German already complete as of Week 7/8
 - Duolingo: 15 min nightly maintained
 
 **What I learned this week:** The earlier broken versions traced back to not using offset planes properly — sketches and sweep paths weren't anchored to the right reference planes, which is what caused the arm-through-disc geometry error. Getting offset planes right was the actual fix, not just redoing the sketches.
@@ -245,14 +244,23 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 **What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor.
 
-> ### 🟢 Currently active — Semester 1 (4 Aug 2026–)
->
-> - Freshmen Boot Camp & Orientation: 3–16 Aug 2026 · academic classes began 17 Aug 2026
-> - Daily anchor since 4 Aug: German (Duolingo nightly + Nicos Weg resuming from Ep 26) + GitHub commit 8:30–9:30 PM
-> - CS50P worked into free morning blocks — Week 6 done, Week 7 (Regex) next
-> - CAD: paused, no fixed resume date — Sem 1 lecture timetable not yet released. Once it is, CAD gets slotted into the daily planner alongside the fixed class blocks
-> - Society Fair 22–23 Aug: SAE Thapar + GDSC Thapar recruitment window — watch their social channels
-> - Once the Sem 1 timetable is shared: full hour-by-hour semester planner gets built, and this section gets replaced by day-wise logs instead of weekly ones
+## Semester 1 progress — 4 Aug 2026–
+
+**Setup:**
+- Freshmen Boot Camp & Orientation: 3–16 Aug 2026
+- Academic classes began 17 Aug 2026
+- Daily anchor established: German (Duolingo nightly + Nicos Weg resuming from Ep 26) + GitHub commit 8:30–9:30 PM
+
+**Python — CS50P:**
+- Worked into free morning blocks
+- Week 6 done, Week 7 (Regex) next
+
+**CAD:**
+- Paused, no fixed resume date — Sem 1 lecture timetable not yet released
+- Once timetable is out, CAD gets slotted into the daily planner alongside fixed class blocks
+
+**Upcoming:**
+- Society Fair 19 Aug — SAE Thapar + GDSC Thapar recruitment window
 
 ---
 
