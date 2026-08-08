@@ -244,6 +244,12 @@ Phase closed 3 Aug 2026 as Freshmen Boot Camp began. Weeks 10–11 log documents
 
 **What happened:** Pre-college prep wound down as Freshmen Boot Camp & Orientation (3–16 Aug) approached, and the transition — travel, hostel move-in, orientation logistics — displaced the daily routine entirely. No CAD, minimal CS50P, no German for roughly two weeks. Resuming from 4 Aug with a fixed daily anchor.
 
+---
+
+# 🎓 Semester 1 begins — 4 Aug 2026
+
+---
+
 ## Semester 1 progress — 4 Aug 2026–
 
 **Setup:**
