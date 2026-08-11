@@ -53,14 +53,15 @@ A complete double-wishbone suspension corner (wishbone + upright + hub + brake d
 
 | Component | Status |
 |-----------|--------|
-| Anatomy research & briefing | ⬜ |
-| Wishbone | ⬜ |
-| Upright + Hub | ⬜ |
-| Brake Disc | ⬜ |
-| Full Assembly | ⬜ |
+| Anatomy research & briefing | ✅ |
+| Wishbone (upper + lower A-arm) | ✅ |
+| Upright + Hub | ✅ |
+| Brake Disc | ✅ |
+| Full Assembly | ✅ |
 
-Folder: `cad/portfolio/suspension-corner/`  
-Design work begins: June 24, 2026
+**Complete ✅ — static double wishbone assembly, Jul 2026** (rebuilt after a first attempt had incorrect anatomy — see Week 8–9 log for the offset-plane fix). Kinematic simulation reserved for when Team Fateh mentors + a reference car are available.
+
+Folder: `cad/portfolio/suspension-corner/`
 
 ---
 
