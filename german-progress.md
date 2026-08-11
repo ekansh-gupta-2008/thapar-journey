@@ -1,26 +1,50 @@
-# German Progress — Language Transfer + Easy German
-Target: Goethe A1 — October/November 2026
+# German Progress
+
+**Current track:** VHS-Lernportal (a1.vhs-lernportal.de) — free, BAMF-recognized A1–C1 course, started 11 Aug 2026 (on a 1-week trial before fully locking in)
+**Target:** Goethe-Zertifikat A1 — January 2027, Goethe-Institut New Delhi
 
 ---
 
-## Language Transfer log
+## VHS-Lernportal log (current)
+
+| Unit | Date | Topic | Notes |
+|------|------|-------|-------|
+| | | | |
+
+---
+
+## Track history
+
+- **Week 1–4 (May–Jun 2026):** DW Nicos Weg as primary track
+- **Week 5 (Jun 2026):** Switched primary track to Language Transfer (grammar backbone) + Easy German (daily input); Nicos Weg demoted to reference/exercise tool
+- **Week 7–9 (Jul 2026):** Both Language Transfer (Track 15, final) and Easy German (Ep 1–30) completed
+- **11 Aug 2026:** Overhaul — scattered multi-app setup (Nicos Weg/Duolingo/Menschen A1 running in parallel) replaced with VHS-Lernportal as the single structured spine. Duolingo demoted to optional 5-min warm-up, Nicos Weg to passive listening, Menschen A1 to grammar reference only (opened only when VHS-Lernportal needs a second explanation). Anki already discontinued (Jul 2026).
+
+---
+
+## Completed — Language Transfer (Jun–Jul 2026)
+
+Course finished at Track 15 (final track). Log below is historical.
 
 | Track | Date | Concept |
 |-------|------|---------|
 | 1 | Jun 2026 | Introductory — core verb/pronoun foundation |
 | 2 | Jun 2026 | Introductory |
 | 3 | Jun 2026 | Introductory |
+| 4–15 | Jun–Jul 2026 | Completed through vacation and into July; course finished |
 
 ---
 
-## Easy German log
+## Completed — Easy German (Slow German) (Jun–Jul 2026)
+
+Episodes 1–30 complete, finished alongside Language Transfer.
 
 | Video | Date | Topic | Comprehension |
 |-------|------|-------|---------------|
 
 ---
 
-## DW Nicos Weg log — reference only (frozen at ep 26)
+## Reference only — DW Nicos Weg (frozen at ep 26)
 
 Course: [DW Nicos Weg](https://learngerman.dw.com/en/nicos-weg/c-36519789)
 
@@ -55,32 +79,7 @@ Course: [DW Nicos Weg](https://learngerman.dw.com/en/nicos-weg/c-36519789)
 
 ---
 
-## Track change — Week 5 (Jun 2026)
-
-Primary track switched from DW Nicos Weg to:
-- Language Transfer Complete German (grammar backbone)
-- Easy German YouTube (daily input)
-
-DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool only.
-
-## Week 6 — June 19–25, 2026 (vacation)
-
-**Language Transfer**
-- Tracks 4+ completed
-- Sentences becoming more natural; less active construction, more instinctive output
-
-**Easy German (Slow German)**
-- Episodes 1–12 complete
-- Comfortable following at slow pace; vocabulary in context more memorable than Anki alone
-
-**Anki / Duolingo**
-- 10 words/day and 15 min nightly maintained through vacation
-
-**Status:** On track for A1 — Oct/Nov 2026
-
----
-
-## Weekly summary
+## Weekly summary (pre-college phase)
 
 | Week | Dates | LT Tracks | EG Episodes | Grammar focus |
 |------|-------|-----------|-------------|---------------|
@@ -89,6 +88,8 @@ DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool onl
 | 3 | 29 May – 4 Jun | — | — | Perfekt tense, reflexive verbs, adjective endings, werden |
 | 4 | 5–11 Jun | — | — | Dative prepositions, Konjunktiv II, subordinate clauses |
 | 5 | 12–18 Jun | 1–3 | — | Introductory — verb/pronoun foundation (LT) |
+| 6 | 19–25 Jun (vacation) | 4+ | 1–12 | LT sentences becoming instinctive; EG vocab in context |
+| 7 | 26 Jun – 2 Jul | 15 (final) | 13–30 (complete) | LT and EG both finished |
 
 ---
 
@@ -96,7 +97,7 @@ DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool onl
 
 | Exam | Target date | Status |
 |------|-------------|--------|
-| Goethe-Zertifikat A1 | Oct / Nov 2026 | Preparing |
+| Goethe-Zertifikat A1 | Jan 2027, Goethe-Institut New Delhi | Preparing — VHS-Lernportal underway |
 | Goethe-Zertifikat A2 | May / Jun 2027 | — |
 | Goethe-Zertifikat B1 | May / Jun 2028 | — |
 | Goethe-Zertifikat B2 | Sem 6 (2029) | — |
