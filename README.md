@@ -55,9 +55,5 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 Phase closed 3 Aug 2026 as Freshmen Boot Camp began.
 
----
-Semester 7–8                  →  Thesis, German B2, MSc applications
-```
-
 
 
