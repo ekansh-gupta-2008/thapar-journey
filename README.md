@@ -56,32 +56,6 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 Phase closed 3 Aug 2026 as Freshmen Boot Camp began.
 
 ---
-
-## Repository structure
-```
-thapar-journey/
-├── cad/
-│   ├── week-1/             # Days 01–03
-│   ├── week-2/             # Days 04–06
-│   ├── week-3/             # Days 07–08
-│   ├── week-4/             # Days 09–12
-│   ├── week-5/             # Days 13–30
-│   └── portfolio/
-│       └── suspension-corner/   # Pre-college portfolio project — static double wishbone, complete
-├── python/
-│   └── cs50p-problemsets/  # CS50P solutions, weekly
-├── german-progress.md      # Language Transfer + Easy German log
-└── README.md
-```
-
-## Roadmap
-
-```
-Pre-college (May–Aug 2026)    →  CAD basics ✅, CS50P Wk0-6 ✅, German A1 prep, suspension corner ✅ — phase closed
-Semester 1 (Aug–Dec 2026)     →  Physics, Engineering Drawing, Manufacturing Processes, Calculus — CS50P + German continue, CAD resumes once timetable set
-Semester 2                    →  Programming (Python) course, Electrical & Electronics — MATLAB self-study begins, German A2 prep
-Semester 3–4                  →  ANSYS FEA, CATIA/NX, German B1
-Semester 5–6                  →  Research project, internship
 Semester 7–8                  →  Thesis, German B2, MSc applications
 ```
 
